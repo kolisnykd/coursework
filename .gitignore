@@ -1,0 +1,32 @@
+# Игнорировать временные файлы Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Игнорировать папки сборки
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# Другие временные и системные файлы
+*.ilk
+*.meta
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+*.backup
+*.dll
+*.exe
+*.lib
+*.ncb
+*.sdf
+*.suo
+*.user
+*.vcxproj.user
+*.db
+*.DS_Store
